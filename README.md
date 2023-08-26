@@ -6,7 +6,7 @@
 
 This is the official repository for the following paper:
 
-> **Deep image harmonization in dual color space**  [[arXiv]](https://arxiv.org/abs/2308.02813)<br>
+> **Deep Image Harmonization in Dual Color Spaces**  [[arXiv]](https://arxiv.org/abs/2308.02813)<br>
 >
 > Linfeng Tan, Jiangtong Li, Li Niu, Liqing Zhang<br>
 > Accepted by **ACMMM2023**.
