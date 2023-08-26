@@ -1,2 +1,0 @@
-# DucoNet-Image-Harmonization
-test

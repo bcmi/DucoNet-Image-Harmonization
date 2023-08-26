@@ -1,0 +1,17 @@
+scipy
+numpy
+Cython
+scikit-image
+opencv-python-headless
+Pillow
+matplotlib
+imgaug
+albumentations
+graphviz
+tqdm
+pyyaml
+easydict
+tensorboard
+future
+cffi
+ninja
