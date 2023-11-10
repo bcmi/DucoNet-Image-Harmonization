@@ -1,3 +1,5 @@
+# ![hot](https://bcmi.sjtu.edu.cn/~niuli/images/fire.png) Our lab has released the image composition toolbox [libcom](https://github.com/bcmi/libcom), which integrates all the functions related to image composition. The toolbox would be continuously upgraded. Welcome to visit and try :-)
+---
 
 [ACM MM-23] Deep image harmonization in Dual Color Space [ACM MM-23]
 
