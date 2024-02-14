@@ -1,6 +1,3 @@
-# ![hot](https://bcmi.sjtu.edu.cn/~niuli/images/fire.png) Our lab has released the image composition toolbox [libcom](https://github.com/bcmi/libcom), which integrates all the functions related to image composition. The toolbox would be continuously upgraded. Welcome to visit and try :-)
----
-
 [ACM MM-23] Deep image harmonization in Dual Color Space [ACM MM-23]
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/deep-image-harmonization-in-dual-color-spaces/image-harmonization-on-iharmony4)](https://paperswithcode.com/sota/image-harmonization-on-iharmony4?p=deep-image-harmonization-in-dual-color-spaces)
