@@ -78,7 +78,7 @@ We also released the pretrained model corresponding to our results, you can down
 ## Other Resources
 
 + [Awesome-Image-Harmonization](https://github.com/bcmi/Awesome-Image-Harmonization)
-+ [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition)
++ [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Object-Insertion)
 
 ## Acknowledgement<a name="codesource"></a> 
 
