@@ -41,6 +41,7 @@ def main():
     for image_name in tqdm(image_names):
         image_path = osp.join(args.images, image_name)
         image = cv2.imread(image_path)
+        composite_image_lab = cv2.cvtColor(image, cv2.COLOR_RGB2Lab)
         image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
         image_size = image.shape
         if resize_shape[0] > 0:
@@ -55,7 +56,7 @@ def main():
         mask[mask > 100] = 1
         mask = mask.astype(np.float32)
 
-        pred = predictor.predict(image, mask)
+        pred = predictor.predict(image, mask, composite_image_lab)
 
         if args.original_size:
             pred = cv2.resize(pred, image_size[:-1][::-1])
