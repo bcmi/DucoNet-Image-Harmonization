@@ -51,7 +51,7 @@ python train.py models/DucoNet_1024.py --workers=8 --gpus=2,3 --exp-name=DucoNet
 We have also provided some commands in the "train.sh" for your convenience.
 
 ### Testing
-You can run the following command to test the pretrained model, and you can download the pre-trained model we released from [Google Drive](https://drive.google.com/drive/folders/1TDKS1H99vhbEOwo8JK5rcw1Zl3WyTSTS?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/1lnDOnmN1tLeoIcvjWvWFkQ?pwd=bcmi):
+You can run the following command to test the pretrained model, and you can download the pre-trained model we released from [Dropbox](https://www.dropbox.com/scl/fo/jnq5sgokct3n0l2ix8knl/AGwf0vaEHULz2qjg1iK81jA?rlkey=v3djzqf3v1upiddb1wc7t0481&st=vz6vi7uc&dl=0) or [Baidu Cloud](https://pan.baidu.com/s/1lnDOnmN1tLeoIcvjWvWFkQ?pwd=bcmi):
 ```
 python scripts/evaluate_model.py DucoNet ./checkpoints/last_model/DucoNet256.pth \
 --resize-strategy Fixed256 \
@@ -72,8 +72,8 @@ We also released the pretrained model corresponding to our results, you can down
 
 | Image Size         | fMSE   | MSE   | PSNR  | Google Drive     | Baidu Cloud      |
 | ------------------ | ------ | ----- | ----- | ---------------- | ---------------- |
-| 256 $\times$ 256   | 212.53 | 18.47 | 39.17 | [Google Drive](https://drive.google.com/drive/folders/1TDKS1H99vhbEOwo8JK5rcw1Zl3WyTSTS?usp=sharing) | [Baidu Cloud](https://pan.baidu.com/s/1lnDOnmN1tLeoIcvjWvWFkQ?pwd=bcmi) |
-| 1024 $\times$ 1024 | 80.69  | 10.94 | 41.37 | [Google Drive](https://drive.google.com/drive/folders/1TDKS1H99vhbEOwo8JK5rcw1Zl3WyTSTS?usp=sharing) | [Baidu Cloud](https://pan.baidu.com/s/1lnDOnmN1tLeoIcvjWvWFkQ?pwd=bcmi) |
+| 256 $\times$ 256   | 212.53 | 18.47 | 39.17 | [Dropbox](https://www.dropbox.com/scl/fi/8rf3or6gt35wizyxpgf0y/DucoNet256.pth?rlkey=jjun6hywcy2wte8k5idgh28jv&st=l3jwirjp&dl=0) | [Baidu Cloud](https://pan.baidu.com/s/1lnDOnmN1tLeoIcvjWvWFkQ?pwd=bcmi) |
+| 1024 $\times$ 1024 | 80.69  | 10.94 | 41.37 | [Dropbox](https://www.dropbox.com/scl/fi/tpowgk1ezf090ezb6o4ib/DucoNet1024.pth?rlkey=gyt042f5h5igc6ypk24stnwtd&st=gk10qjv2&dl=0) | [Baidu Cloud](https://pan.baidu.com/s/1lnDOnmN1tLeoIcvjWvWFkQ?pwd=bcmi) |
 
 ## Other Resources
 
