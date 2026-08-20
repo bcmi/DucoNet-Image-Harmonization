@@ -1,3 +1,8 @@
+Welcome to scan the WeChat QR code to join the discussion group on image composition/compositing, object insertion/addition.
+<p align="center">
+<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/8572a7c4-0f62-4a5f-bc06-9a1d9fcb14e3" />
+</p>
+
 [ACM MM-23] Deep image harmonization in Dual Color Space [ACM MM-23]
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/deep-image-harmonization-in-dual-color-spaces/image-harmonization-on-iharmony4)](https://paperswithcode.com/sota/image-harmonization-on-iharmony4?p=deep-image-harmonization-in-dual-color-spaces)
